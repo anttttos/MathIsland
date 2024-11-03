@@ -1,6 +1,6 @@
 // pages/multiplicacion.js
 import { useState } from 'react';
-import Header from '../components/Header';
+import Header from '../components/header';
 import ChallengeCard from '../components/ChallengeCard';
 
 const Multiplicacion = () => {

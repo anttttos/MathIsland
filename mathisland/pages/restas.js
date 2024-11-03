@@ -1,6 +1,6 @@
 // pages/restas.js
 import { useState } from 'react';
-import Header from '../components/Header';
+import Header from '../components/header';
 import Quiz from '../components/Quiz';
 
 const Restas = () => {
