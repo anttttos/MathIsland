@@ -1,6 +1,6 @@
 // pages/index.js
 import Header from '../components/Header';
-import ProgressBar from '../components/ProgressBar';
+import ProgressBar from '../components/progressbar';
 
 const Home = () => {
   return (
